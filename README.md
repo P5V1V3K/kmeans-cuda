@@ -1,7 +1,5 @@
 # K-means parallel computing in CUDA
 
-This project was an assignment for the High Performance Computing class at University of Siena. You can look at the final [report](./HPCA_kmeans_cuda_report.pdf) for more details.
-
 ## How to run this code
 
 Before trying to execute both sequential and parallel version of k-means algorithm it is important to extract `datapoints.zip` in the same folder of the codes.
